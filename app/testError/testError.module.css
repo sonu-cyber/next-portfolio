@@ -1,0 +1,16 @@
+.testError {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  width: 100vw;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: Arial, sans-serif;
+  cursor: default;
+  z-index: -2;
+}
+@media (max-width: 640px) {
+  .testError {
+    width: 100%;
+  }
+}

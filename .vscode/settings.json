@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "**/app/**/page.js": "Page.js"
+  },
+  "files.autoSave": "onFocusChange",
+  "workbench.settings.useSplitJSON": true,
+  "json.schemas": []
+}
